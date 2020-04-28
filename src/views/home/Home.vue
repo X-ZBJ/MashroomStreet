@@ -65,7 +65,7 @@
 <script>
 //公共组件
 import Navbar from '../../components/common/nav-bar/Navbar'
-import TabControl from '../../components/content/tabComtrol/TabControl'
+import TabControl from '../../components/content/tabControl/TabControl'
 
 //home的子组件
 import HomeSwiper from './child-coms/HomeSwiper'
